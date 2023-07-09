@@ -4,3 +4,4 @@ basic commands of shell navigation
 2. changes current working directory to home directory
 3. Display current working directory contents in a long format
 4. Display current directory contents including hidden files starting with (.)in  a long format
+5. Display current directory contents, long format, user group, starting with hidden files
