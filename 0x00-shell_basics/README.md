@@ -13,3 +13,4 @@ basic commands of shell navigation
 11. list all the files with their directories down to the last one including hidden and binary files
 12. Prints a file type
 13. Creates a symbolic link in the current working directoy
+14. copy all new and updated HTML files from current working directory to its parent directory
