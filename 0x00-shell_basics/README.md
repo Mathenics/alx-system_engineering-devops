@@ -8,3 +8,4 @@ basic commands of shell navigation
 6. Script that creates a sub-directory in another directory
 7. Relocates a file to a new destination
 8. deletes a file from another folder
+9. deletes a sub-folder from parent folder
