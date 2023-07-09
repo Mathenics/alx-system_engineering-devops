@@ -3,3 +3,4 @@ basic commands of shell navigation
 1. dissplay contents list of current directory
 2. changes current working directory to home directory
 3. Display current working directory contents in a long format
+4. Display current directory contents including hidden files starting with (.)in  a long format
