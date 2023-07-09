@@ -2,3 +2,4 @@ Shell permissions
 0. switches current user to another user.
 1. display current user's names
 2. display all current user's groups
+3. change current owner of a file to another
