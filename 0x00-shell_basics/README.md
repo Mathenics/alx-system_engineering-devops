@@ -9,3 +9,4 @@ basic commands of shell navigation
 7. Relocates a file to a new destination
 8. deletes a file from another folder
 9. deletes a sub-folder from parent folder
+10. change current working directory to previous one
