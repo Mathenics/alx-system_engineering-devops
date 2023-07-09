@@ -11,3 +11,4 @@ basic commands of shell navigation
 9. deletes a sub-folder from parent folder
 10. change current working directory to previous one
 11. list all the files with their directories down to the last one including hidden and binary files
+12. Prints a file type
