@@ -2,3 +2,4 @@
 0. Script that prints a message followed by a new line
 1. Script that display a confused similey "(Oo)'
 2. Script that prints the contents of a file
+3. Script that prints the contents of two files
