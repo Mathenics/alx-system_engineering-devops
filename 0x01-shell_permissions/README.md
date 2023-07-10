@@ -11,3 +11,4 @@ Shell permissions
 9. give different permissions to all
 10. set permission of a file to copy another existing file's permission.
 11. set execution permission to all subdirectories of curent directory for owner, group and others
+12. create a file with specific permissions in the working directory
