@@ -9,3 +9,4 @@
 7. create a non empty file with special character name
 8. write to a file, result of given command
 9. duplicate last line of a file
+10. delete all regular files with a common extension in the working directory
