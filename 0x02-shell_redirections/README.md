@@ -6,3 +6,4 @@
 4. display last ten lines of a file
 5. display the first ten lines of a file
 6. display the third line of a file
+7. create a non empty file with special character name
