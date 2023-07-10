@@ -14,3 +14,4 @@
 12. Display ten newest files in current directory
 13. Display only inputs that appears once from multple intakes
 14. Display files containing pattern from a file
+15. Display lines containing a pattern and three lines after them in a file
