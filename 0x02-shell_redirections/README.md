@@ -5,3 +5,4 @@
 3. Script that prints the contents of two files
 4. display last ten lines of a file
 5. display the first ten lines of a file
+6. display the third line of a file
