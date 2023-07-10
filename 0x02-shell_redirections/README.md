@@ -8,3 +8,4 @@
 6. display the third line of a file
 7. create a non empty file with special character name
 8. write to a file, result of given command
+9. duplicate last line of a file
