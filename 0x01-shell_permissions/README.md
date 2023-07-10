@@ -8,3 +8,4 @@ Shell permissions
 6. Add execute permission to the owner and the group owner, and read permission to others on a file
 7. change permission to give execution permit to all
 8. give all permissions to other users alone
+9. give different permissions to all
