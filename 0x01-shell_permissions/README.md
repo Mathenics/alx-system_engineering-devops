@@ -6,3 +6,4 @@ Shell permissions
 4. Create an empty file
 5. Add execute permission to owner of a file
 6. Add execute permission to the owner and the group owner, and read permission to others on a file
+7. change permission to give execution permit to all
