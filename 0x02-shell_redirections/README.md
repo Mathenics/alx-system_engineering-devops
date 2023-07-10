@@ -10,3 +10,4 @@
 8. write to a file, result of given command
 9. duplicate last line of a file
 10. delete all regular files with a common extension in the working directory
+11. count the number of directries and subdirectories in current directory including hidden directories
