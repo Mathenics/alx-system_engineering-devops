@@ -3,3 +3,4 @@
 1. Script that display a confused similey "(Oo)'
 2. Script that prints the contents of a file
 3. Script that prints the contents of two files
+4. display last ten lines of a file
