@@ -13,3 +13,4 @@
 11. count the number of directries and subdirectories in current directory including hidden directories
 12. Display ten newest files in current directory
 13. Display only inputs that appears once from multple intakes
+14. Display files containing pattern from a file
