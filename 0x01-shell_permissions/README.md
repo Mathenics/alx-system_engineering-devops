@@ -9,3 +9,4 @@ Shell permissions
 7. change permission to give execution permit to all
 8. give all permissions to other users alone
 9. give different permissions to all
+10. set permission of a file to copy another existing file's permission.
