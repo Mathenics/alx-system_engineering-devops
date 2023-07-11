@@ -16,3 +16,4 @@
 14. Display files containing pattern from a file
 15. Display lines that contains a pattern in a file
 16. Display lines containing a pattern and three lines after them in a file
+17. Display all lines of a file that do not contain a particular word
