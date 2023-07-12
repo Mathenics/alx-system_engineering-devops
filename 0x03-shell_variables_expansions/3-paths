@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -print | wc -m
+find . -type f -print | wc --files0-from=F
