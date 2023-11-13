@@ -1,2 +1,2 @@
 #!/bin/bash
-env | awk -F '=' '{ print $1 }'
+clusterExport(cl,as.list(unique(c(ls(.GlobalEnv),ls(environment())))),envir=environment())
